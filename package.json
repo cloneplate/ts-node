@@ -1,0 +1,12 @@
+{
+	"name": "node-module",
+	"version": "1.0.0",
+	"main": "dist/index.js",
+	"scripts": {
+		"dev": "tsc --watch",
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"typescript": "^4.6.3"
+	}
+}
